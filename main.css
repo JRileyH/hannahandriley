@@ -1453,20 +1453,6 @@
      border-bottom: 1px solid #000;
    }
    
-   .card {
-     padding: 16px 12px;
-     border-style: solid;
-     border-width: 1px;
-     border-color: #000;
-     background-color: #fff;
-     -webkit-transition: color 100ms ease;
-     transition: color 100ms ease;
-   }
-   
-   .card:hover {
-     color: #e2af5c;
-   }
-   
    .input-group {
      display: -webkit-box;
      display: -webkit-flex;
